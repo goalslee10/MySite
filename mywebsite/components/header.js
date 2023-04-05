@@ -1,7 +1,7 @@
 export default function Header() {
     return (
         <>
-            <h1>헤더입니다.</h1>
+            <p className="font-bold">헤더입니다.</p>
         </>
     )
 }
